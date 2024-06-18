@@ -1,0 +1,8 @@
+.page {
+    background-image: url('../Assets/fresh-gourmet-meal-beef-taco-salad-plate-generated-by-ai.jpg');
+    background-size: cover; /* Ensures the image covers the entire container */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    padding: 20px; /* Adds padding to ensure content doesn't touch the edges */
+    min-height: 100vh; /* Ensures the container takes at least the full viewport height */
+}
